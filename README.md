@@ -8,12 +8,12 @@ I specialize in crafting clean, efficient, and user-friendly solutions, combinin
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** PHP, JavaScript, TypeScript, Python  
-- **Frameworks & Libraries:** Laravel, React.js, Vue.js, Next.js, Node.js  
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks & Libraries:** React.js, Vue.js, Next.js, Node.js, Django, Flask
 - **AI & Data:** TensorFlow, PyTorch, LangChain, LLM APIs (OpenAI, Anthropic, etc.)  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **UI/UX:** Tailwind CSS, Radix UI, Framer Motion  
-- **Other:** Docker, Git, REST & GraphQL APIs, Shopify App Dev, Web3 dApps  
+- **Other:** Docker, Git, REST & GraphQL APIs, AWS, GCP, Shopify App Dev, Web3 dApps  
 
 ---
 
